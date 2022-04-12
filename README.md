@@ -1,5 +1,5 @@
 # web-scraping-tutorial
-Code to build a web scraper to perform extraction of articles of five categories of news of the web page "El Espectador", transforming the data to a schema to allow persist the articles in a collection of MongoDB for implement an frequency analysys to dataset and show the result in a wordcloud.
+Code to build a web scraper to perform extraction of articles of five categories of news of the web page "El Espectador", transforming the data to a schema to allow persist the articles in a collection of MongoDB for implement a frequency analysys to dataset and show the result in a wordcloud.
 
 
 ## Table of Contents
