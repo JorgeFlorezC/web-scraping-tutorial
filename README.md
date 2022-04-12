@@ -20,7 +20,7 @@ Code to build a web scraper to perform extraction of articles of five categories
 ## Evidence MongoDB
  - Evidence screenshot of data insertion in MongoDB.
  
- ![Captura MongoDB](./img/Captura MongoDB.PNG)
+ ![Captura-MongoDB](./img/CapturaMongoDB.png)
 	
 	
 ## Usage
